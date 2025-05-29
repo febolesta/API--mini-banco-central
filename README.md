@@ -23,3 +23,14 @@ Esta é uma API REST simples que simula um agregador bancário, funcionando tota
 
 ## 📁 Estrutura do Projeto
 
+mini-banco-central/
+├── index.js # Arquivo principal com as rotas e lógica da API
+├── package.json # Dependências e scripts
+├── Dockerfile # Configuração para rodar com Docker
+├── docker-compose.yml # Composição do serviço
+└── README.md # Documentação do projeto
+
+bash
+Copiar
+Editar
+

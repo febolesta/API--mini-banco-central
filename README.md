@@ -19,18 +19,5 @@ Esta é uma API REST simples que simula um agregador bancário, funcionando tota
 - **Docker (opcional)** – containerização da aplicação
 - **Docker Compose (opcional)** – facilitar o uso com Docker
 
-> ⚠️ Os dados são armazenados em memória. Ao reiniciar o servidor, tudo é apagado.
 
-## 📁 Estrutura do Projeto
-
-mini-banco-central/
-├── index.js # Arquivo principal com as rotas e lógica da API
-├── package.json # Dependências e scripts
-├── Dockerfile # Configuração para rodar com Docker
-├── docker-compose.yml # Composição do serviço
-└── README.md # Documentação do projeto
-
-bash
-Copiar
-Editar
 
